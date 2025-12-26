@@ -75,7 +75,7 @@
 
 > **Note:** Replace with your deployed URL
 
-🔗 **Demo Link:** [https://nebula-ledger.vercel.app](https://nebula-ledger.vercel.app) *(example)*
+🔗 **Demo Link:** [[https://nebula-ledger.vercel.app](https://nebula-ledger.vercel.app) 
 
 **Screenshots:**
 - Landing Page: (Add screenshot)
@@ -562,9 +562,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 📞 Contact
 
-**Project Maintainer:** [Your Name]  
-**Email:** your.email@example.com  
-**GitHub:** [@yourusername](https://github.com/yourusername)
+**Project Maintainer:** Aditya Verma 
+**Email:** adityaverma9777@gmail.com
+
 
 **Hackathon Submission:** Student HackPad 2026  
 **Theme:** ORBIT (Building tech beyond Earth)
