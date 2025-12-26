@@ -73,15 +73,11 @@
 
 ## 🌐 Live Demo
 
-> **Note:** Replace with your deployed URL
 
-🔗 **Demo Link:** [[https://nebula-ledger.vercel.app](https://nebula-ledger.vercel.app) 
 
-**Screenshots:**
-- Landing Page: (Add screenshot)
-- Satellite Tracking: (Add screenshot)
-- Asteroid Monitor: (Add screenshot)
-- Launch Center: (Add screenshot)
+🔗 **Demo Link:** [https://nebula-ledger.vercel.app](https://nebula-ledger.vercel.app) 
+
+
 
 ---
 
