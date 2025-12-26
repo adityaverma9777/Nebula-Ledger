@@ -36,9 +36,9 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-# Texture files (large, should be downloaded separately)
-public/textures/*.jpg
-public/textures/*.png
+# Texture files (commented out - essential textures need to be deployed)
+# public/textures/*.jpg
+# public/textures/*.png
 !public/textures/README.md
 
 # Testing
